@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center"> <img src="https://metrics.lecoq.io/HJY-dev?template=classic&config.timezone=Asia%2FShanghai"> </div>
 
-<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=HJY-dev&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=HJY-dev&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
+Working on:
 
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=HJY-dev" /> </div>
+- CodeDB: [CodeDB](https://github.com/HJY-dev)
 
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=HJY-dev&theme=xcode" /> </div>
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://hjy-dev.github.io/)
